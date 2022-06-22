@@ -9,7 +9,7 @@
 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=shadowLQ&show_icons=true&hide_border=true&theme=tokyonight" />
 
-哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 我是李强.
+哈喽， 我是李强.
 
 - 我是一名后端小开发 🏆
 - 熟悉 Java,Spring,SpringBoot,redis,... ☕️
