@@ -14,6 +14,6 @@
 - 我是一名后端小开发 🏆
 - 熟悉 Java,Spring,SpringBoot,redis,... ☕️
 - 有啥问啥，可以通过下方链接联系我 🐱‍🏍
-- 电邮：shadowsLQ@126.com ✉️
+- 电邮：shadowLQ@outlook.com ✉️
 
 [comment]: <> (## 📖 文章)
