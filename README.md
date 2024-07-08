@@ -9,7 +9,7 @@
 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=meteorLQ&show_icons=true&hide_border=true&theme=tokyonight" />
 
-哈喽， 我是李强.
+哈喽.
 
 - 我是一名后端小开发 🏆
 - 熟悉 Java,Spring,SpringBoot,redis,... ☕️
