@@ -7,7 +7,7 @@
 
 ## 🤩 我
 
-<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=shadowLQ&show_icons=true&hide_border=true&theme=tokyonight" />
+<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=meteorLQ&show_icons=true&hide_border=true&theme=tokyonight" />
 
 哈喽， 我是李强.
 
